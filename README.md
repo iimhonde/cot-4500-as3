@@ -4,7 +4,8 @@
 
 ##  Overview
 This assignment implements numerical methods in Python, including:
-
+    Euler Method
+    Runge-Kutta Method
 
 The project follows a structured format to ensure modularity and testability.
 
